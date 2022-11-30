@@ -2,3 +2,4 @@
 
 * [Етап 0](/diag/stage_0.md)
 * [Етап 1](/diag/stage_1.md)
+* [Етап 2-3](/diag/stage_2.md)
